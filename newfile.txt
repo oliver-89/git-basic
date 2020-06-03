@@ -1,3 +1,9 @@
+add:将做出的修改添加至暂存区
+commit：将暂存区的修改提交至本地仓库
+push：将本地版本库推送到远程服务器
+
+
+
 Know you've been hurt by someone else
 我知道你的心深受情伤所累
 I can tell by the way you carry yourself
